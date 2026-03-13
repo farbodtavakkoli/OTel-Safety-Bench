@@ -155,4 +155,4 @@ Answer:
 
 ## Contact
 
-For questions or collaboration inquiries: [farbod.tavakkoli@att.com](mailto:farbod.tavakkoli@att.com) or [farbodtavakoli@gmail.com](mailto:farbodtavakoli@gmail.com)
+If you have any technical questions, please feel free to reach out to [farbod.tavakkoli@att.com](mailto:farbod.tavakkoli@att.com) or [farbodtavakoli@gmail.com](mailto:farbodtavakoli@gmail.com)
