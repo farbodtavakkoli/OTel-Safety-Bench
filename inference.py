@@ -6,9 +6,6 @@ import argparse
 import datetime
 import traceback
 
-# export SCALARLM_API_URL=http://otel_llm_8b_safety.farbodopensource.org
-# export SCALARLM_API_URL=https://tensorwave-api.scalarllm.com
-# export SCALARLM_API_URL=http://fsdp_test.farbodopensource.org
 def get_args():
 
     parser = argparse.ArgumentParser()
