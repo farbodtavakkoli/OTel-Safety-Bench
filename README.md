@@ -8,7 +8,7 @@ We are inviting partners to evaluate **[OTel-LLM-8.3B-Safety](https://huggingfac
 |---|---|
 | **Model** | [OTel-LLM-8.3B-Safety](https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-Safety) |
 | **Parameters** | 8.3B |
-| **Base Model** | [Rnj-1 (EssentialAI)](https://essential.ai/research/rnj-1) |
+| **Base Model** | [Rnj-1 (EssentialAI)](https://huggingface.co/EssentialAI/rnj-1) |
 | **Training Method** | Full parameter post-training |
 | **Training Data** | [OTel-Safety](https://huggingface.co/datasets/farbodtavakkoli/OTel-Safety) |
 | **Training Code** | [github.com/farbodtavakkoli/OTel](https://github.com/farbodtavakkoli/OTel) |
@@ -139,8 +139,13 @@ Answer:
 - **Model Weights**: [huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-Safety](https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-Safety)
 - **Training Data**: [huggingface.co/datasets/farbodtavakkoli/OTel-Safety](https://huggingface.co/datasets/farbodtavakkoli/OTel-Safety)
 - **Training Code**: [github.com/farbodtavakkoli/OTel](https://github.com/farbodtavakkoli/OTel)
-- **Base Model (Rnj-1)**: [essential.ai/research/rnj-1](https://essential.ai/research/rnj-1)
+- **Base Model (Rnj-1)**: [essential.ai/research/rnj-1](https://huggingface.co/EssentialAI/rnj-1)
 - **OTel Model Family**: [HuggingFace Collection](https://huggingface.co/farbodtavakkoli/collections)
+
+## 🌐 Infrastructure
+
+- **Compute**: TensorWave for AMD GPUs and Azure for NVIDIA GPUs
+- **Framework**: ScalarLM (GPU-agnostic)
 
 ## Citation
 
