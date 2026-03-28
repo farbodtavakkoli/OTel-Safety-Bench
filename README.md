@@ -52,16 +52,7 @@ To share the findings in a **joint blog, press release, or a potential conferenc
 
 We have already started testing this model during **MWC 2026** and want to further test the model's ability with more partners involved.
 
-**Partners:** AT&T, GSMA, University of Texas at Dallas, University of Leeds, EssentialAI
-
-**Turnaround:** Hoping to finish as soon as possible, targeting early next week.
-
-## Infrastructure
-
-| Component | Details |
-|---|---|
-| **Compute** | MI325X AMD GPUs on TensorWave cloud |
-| **Framework** | ScalarLM (GPU-agnostic) |
+**Partners:** AT&T, GSMA, University of Texas at Dallas, University of Leeds, and EssentialAI
 
 ## Quick Start
 
