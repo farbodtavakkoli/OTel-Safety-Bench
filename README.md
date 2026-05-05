@@ -135,17 +135,18 @@ Answer:
 
 ## 🌐 Infrastructure
 
-- **Compute**: TensorWave for AMD GPUs and Azure for NVIDIA GPUs
+- **Compute**: AMD and NVIDIA GPUs
 - **Framework**: ScalarLM (GPU-agnostic)
 
 ## Citation
 
 ```bibtex
 @misc{otel2026,
-  title={OTel: Open Telco AI Models},
-  author={Tavakkoli, Farbod and Diamos, Gregory and Paulk, Roderic and Terrazas, Jorden},
-  year={2026},
-  url={https://huggingface.co/farbodtavakkoli}
+  title  = {OTel: Open Telco AI Datasets, Benchmarks, and Models},
+  author = {Tavakkoli, Farbod and others},
+  year   = {2026},
+  note   = {Manuscript in preparation},
+  url    = {https://huggingface.co/farbodtavakkoli}
 }
 ```
 
